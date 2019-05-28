@@ -1,7 +1,7 @@
 # bowling
 Bowling scoring playground
 
-Drop [bowling.swift](https://github.com/poima/bowling/blob/master/bowling.swift) to a directory, add executable attribute (`chmod +x bowling.swift`), then call it from command line:
+Drop bowling.swift to a directory, add executable attribute (`chmod +x bowling.swift`), then call it from command line:
 
 ```
 > ./bowling.swift 
